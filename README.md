@@ -1,2 +1,2 @@
 # mycaptain
-task1 completed by Meghala S 
+im a mentee form mycaptain of python course @Oct 2020
